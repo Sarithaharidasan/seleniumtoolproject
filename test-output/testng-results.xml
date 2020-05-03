@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12332" started-at="2020-05-01T19:48:41 IST" finished-at="2020-05-01T19:48:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12332" started-at="2020-05-01T19:48:41 IST" finished-at="2020-05-01T19:48:54 IST">
+      <class name="newpackage.ExamportalTestNG">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:newpackage.ExamportalTestNG@67b92f0a]" name="launchBrowser" is-config="true" duration-ms="5681" started-at="2020-05-01T19:48:41 IST" finished-at="2020-05-01T19:48:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:newpackage.ExamportalTestNG@67b92f0a]" name="verifyHomepageTitle" duration-ms="32" started-at="2020-05-01T19:48:47 IST" finished-at="2020-05-01T19:48:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="createUser()[pri:1, instance:newpackage.ExamportalTestNG@67b92f0a]" name="createUser" duration-ms="3472" started-at="2020-05-01T19:48:47 IST" finished-at="2020-05-01T19:48:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="Login()[pri:2, instance:newpackage.ExamportalTestNG@67b92f0a]" name="Login" duration-ms="639" started-at="2020-05-01T19:48:51 IST" finished-at="2020-05-01T19:48:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Reasoning()[pri:3, instance:newpackage.ExamportalTestNG@67b92f0a]" name="Reasoning" duration-ms="1751" started-at="2020-05-01T19:48:51 IST" finished-at="2020-05-01T19:48:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reasoning -->
+        <test-method status="PASS" signature="Status()[pri:4, instance:newpackage.ExamportalTestNG@67b92f0a]" name="Status" duration-ms="634" started-at="2020-05-01T19:48:53 IST" finished-at="2020-05-01T19:48:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Status -->
+      </class> <!-- newpackage.ExamportalTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
